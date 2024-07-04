@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <StartupObject></StartupObject>
+    <ApplicationIcon>eye_icon-icons.com_54399.ico</ApplicationIcon>
+    <BaseOutputPath>C:\Users\dincertekin\Desktop\dtEyeCare</BaseOutputPath>
+    <Title>dtEyeCare</Title>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="eye_icon-icons.com_54399.ico" />
+  </ItemGroup>
+
+</Project>
