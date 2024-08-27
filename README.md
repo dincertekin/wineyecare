@@ -10,11 +10,16 @@ dtEyeCare is a C# Windows Forms application designed to promote healthy screen h
 - **Customizable**: Adjust break intervals and notifications based on personal preferences.
 - **User-Friendly Interface**: Simple and intuitive UI to monitor and manage screen time.
 
+## Screenshots
+
+![Image 1](https://i.imgur.com/vrcoRTc.png)  
+![Image 2](https://i.imgur.com/CShWKN6.png)
+
 ## Installation
 
 To use dtEyeCare on your Windows computer:
 
-1. **Download**: Clone this repository or download the latest release from the [Releases](https://github.com/dincertekin/dtEyeCare/releases/latest) page.
+1. **Download**: Download the latest release from the [Releases](https://github.com/dincertekin/dtEyeCare/releases/latest) page.
    
 2. **Run**: Double-click on `dtEyeCare.exe` to launch the application.
 
