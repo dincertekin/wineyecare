@@ -12,8 +12,10 @@ dtEyeCare is a C# Windows Forms application designed to promote healthy screen h
 
 ## Screenshots
 
-![Image 1](https://i.imgur.com/vrcoRTc.png)  
-![Image 2](https://i.imgur.com/CShWKN6.png)
+<div style="display: flex; justify-content: space-between;">
+   <img src="https://i.imgur.com/vrcoRTc.png">
+   <img src="https://i.imgur.com/CShWKN6.png">
+</div>
 
 ## Installation
 
