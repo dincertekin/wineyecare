@@ -33,4 +33,4 @@ To use dtEyeCare on your Windows computer:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under [MIT License](LICENSE).
