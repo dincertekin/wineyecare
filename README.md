@@ -31,14 +31,6 @@ To use dtEyeCare on your Windows computer:
 
 3. **Notifications**: Receive notifications in the system tray when it's time to take breaks. Follow the recommended activities during breaks to reduce eye strain and improve productivity.
 
-## Contributing
-
-Contributions and feedback are welcome! If you have suggestions, ideas for new features, or find a bug, please open an [issue](https://github.com/dincertekin/dtEyeCare/issues) or submit a pull request.
-
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
-
-## About the Author
-
-dtEyeCare is maintained by Dinçer Tekin. Connect with me on [LinkedIn](https://www.linkedin.com/in/dincertekin/) for discussions and updates.
