@@ -22,19 +22,10 @@ WinEyeCare is a free Windows app that helps you protect your eyes while working 
 ### Executing program
 * Double-click `WinEyeCare.exe` to launch the application
 * The app will start running in the background and appear in the system tray
-
-```
-WinEyeCare.exe
-```
-
 * Double-click the system tray icon to access settings and customize break intervals and startup preferences
 
 ## Help
 If the app does not appear in the system tray, check that your system tray is not hiding icons. You can manage this in Windows taskbar settings.
-
-```
-WinEyeCare.exe --help
-```
 
 ## Contributing
 Contributions are welcome! To get started:
